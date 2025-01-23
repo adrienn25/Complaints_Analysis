@@ -1,2 +1,2 @@
 # Speaker_Freq_Dialogue
-Project done to analyze how often a certain character speaks in a script
+Exploratory project to get familiar with UNIX commands and analyze speaker frequency
